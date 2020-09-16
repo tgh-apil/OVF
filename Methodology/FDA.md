@@ -1,0 +1,5 @@
+# 2.2.1.2. FDA (USA)
+
+The FDA issued an [Emergency Use Authorization (EUA)](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/ventilators-and-ventilator-accessories-euas) which provides a set of guidelines towards the modification and development of emergency use ventilators. It also issued a [letter of authorization](https://www.fda.gov/media/136423/download) for manufacturers to conform with the said practices to ensure device’s usability.
+
+In addition to the requirements of [Fact Sheet for Health Providers](https://www.fda.gov/media/136424/download), [Fact sheet for Patients](https://www.fda.gov/media/136425/download), [Appendix A](https://www.fda.gov/media/136437/download) and [Appendix B](https://www.fda.gov/medical-devices/coronavirus-disease-2019-covid-19-emergency-use-authorizations-medical-devices/ventilators-and-ventilator-accessories-euas#appendixb), the FDA also provides a [template](https://www.fda.gov/media/137172/download) for the application of the EUA.
