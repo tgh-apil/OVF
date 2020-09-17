@@ -1,0 +1,3 @@
+# 3.2.9. Open Source Assessment 
+
+This section covers **Level 1** assessment of the proposed ventilator system and includes evaluation of the project’s openness in following aspects: documentation, license, original and auxiliary design files, bill of materials, software and firmware, photos, instructions and other explanations, hardware design, building on open source hardware, hosting and distribution, GitHub (hosting platform). 
