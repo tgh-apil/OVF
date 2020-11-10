@@ -21,7 +21,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 ---
 
 #### 2. Methodology	
-[2.1. Evaluation Framework ](https://hackmd.io/ZOR0K6IsQXieqTZNJASAQA?both)
+[2.1. Evaluation Framework ](Methodology/Evaluation_Framework.md)
 
 >This section provides the rationale behind the development of the proposed evaluation framework and describes 3 Levels of proposed evaluation. 
   
