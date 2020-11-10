@@ -51,7 +51,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 - [2.2.3.8. Protection against unwanted and excessive radiation Hazards	](Methodology/Guide/Protection_against_unwanted_and_excessive_radiation_Hazards.md)
 - [2.2.3.9. Protection against excessive temperatures and other Hazards	](Methodology/Guide/Protection_against_excessive_temperatures_and_other_Hazards.md)
 - [2.2.3.10 Accuracy of controls and instruments and protection against hazardous outputs	](Methodology/Guide/Accuracy_of_controls_and_instruments_and_protection_against_hazardous_outputs.md)
-- [2.2.3.11. Hazardous situations and fault conditions for ME Equipment](https://hackmd.io/HTIwlW3KS8Cvbec82YPevQ?both)	
+- [2.2.3.11. Hazardous situations and fault conditions for ME Equipment](Methodology/Guide/Hazardous_situations_and_fault_conditions_for_ME_Equipment.md)	
 - [2.2.3.12. Programmable Electrical Medical Systems (PEMs)](https://hackmd.io/bU1ZHOwUTKKYJ_iRjWyC7Q?both)	
 - [2.2.3.13. Construction of ME Equipment	](https://hackmd.io/1Qr2ccPmRpaHLShRTz9xgw?both)
 - [2.2.3.14. Construction of ME System](https://hackmd.io/WD9DwdAtRViZ1Y2YuBybkA?both)
