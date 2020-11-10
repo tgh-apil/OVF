@@ -11,7 +11,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 ## Table of Content
 
 #### 1. Introduction	
-[1.1. Purpose](PURPOSE.md)
+[1.1. Purpose](Introduction/Purpose.md)
 
 [1.2. Use Case](https://hackmd.io/XYb5KybrSxqiidnHxhlEaw?both)	
 
