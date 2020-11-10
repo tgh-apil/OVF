@@ -38,7 +38,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 > ##### [Required Standards: Links](Methodology/Required_Standards_Links.md)
 - [2.2.2.1. ISO, IEC](Methodology/ISO_IEC.md)
 - [2.2.2.2. FDA, Health Canada, AAMI, ANSI/IEEE](Methodology/FDA_Health_Canada_AAMI_ANSI_IEEE.md)
-- [2.2.2.3. MHRA, TGA](https://hackmd.io/QuG4YeKcSie8bx3IA1liCQ?both)
+- [2.2.2.3. MHRA, TGA](Methodology/MHRA_TGA.md)
 
 ##### 2.2.3. Guide for ISO/IEC, AAMI & MECA Standards
 - [2.2.3.1. Guide Through ISO/IEC Standards](https://hackmd.io/QELW5VbdTeSDT-mM-gg3sg?both)
