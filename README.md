@@ -56,7 +56,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 - [2.2.3.13. Construction of ME Equipment	](Methodology/Guide/Construction_of_ME_Equipment.md)
 - [2.2.3.14. Construction of ME System](Methodology/Guide/Construction_of_ME_Equipment.md)
 - [2.2.3.15. Electromagnetic Compatibility of ME Equipment and ME Systems](Methodology/Guide/Electromagnetic_Compatibility_of_ME_Equipment_and_ME_Systems.md)	
-- [2.2.3.16. Additional Requirements to general standards (ISO 80601-2-80)](https://hackmd.io/ndbVwIr5RDa0JJXl5GHt_A?both)
+- [2.2.3.16. Additional Requirements to general standards (ISO 80601-2-80)](Methodology/Guide/Additional_Requirements_to_General_Standards.md)
 
 > ##### AAMI & MECA Checklist
 - [2.2.3.2. Guide Through AAMI](https://hackmd.io/RI94hY4pQWmrx7danaPAOA?both)
