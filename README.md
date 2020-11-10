@@ -59,7 +59,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 - [2.2.3.16. Additional Requirements to general standards (ISO 80601-2-80)](Methodology/Guide/Additional_Requirements_to_General_Standards.md)
 
 > ##### AAMI & MECA Checklist
-- [2.2.3.2. Guide Through AAMI](Methodology/Checklist/Guide_Through_AAMI.md)
+- [2.2.3.2. Guide Through AAMI](Methodology/Checklists/Guide_Through_AAMI.md)
 - [2.2.3.3. Guide Through MECA Checklist](https://hackmd.io/FB4fxOd1TJiSmmFXvukOBA?both)
 - [2.3. Methodology of Synthesis	](https://hackmd.io/0PvHueU7TNeAhbs1OpDhQA?both)
 - [2.4.  Limitations](https://hackmd.io/jqfZoly0THi_s7jcVMAwTg?both)	
