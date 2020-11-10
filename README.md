@@ -73,7 +73,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 ##### [3.2. Database organization and content](OVF_Database/Database_organization_and_content.md)
 - [3.2.1. Performance Parameters	](OVF_Database/Performance_Parameters.md)
 - [3.2.2. Risk Assessment](OVF_Database/Risk_Assessment.md)	
-- [3.2.3. Human Factors Evaluation](https://hackmd.io/2i64ZZHwRXK1w7YLzn4Jsw?both)	
+- [3.2.3. Human Factors Evaluation](OVF_Database/Human_Factors_Evaluation.md)	
 - [3.2.4. Mechanical Systems Assessment](https://hackmd.io/RVIyDQweRU2ZQICMaHh9Sw?both)
 - [3.2.5. Electrical Systems Assessment](https://hackmd.io/9XONKiWKSP6Z0qoYR9lTbw?both) 
 - [3.2.6. Infection Control](https://hackmd.io/6G72Ay5UQIOL3m89kqcf8A?both) 
