@@ -1,7 +1,3 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
 
 High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Regulatory Assessment 
 ===
