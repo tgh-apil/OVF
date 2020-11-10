@@ -79,7 +79,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 - [3.2.6. Infection Control](OVF_Database/Infection_Control.md) 
 - [3.2.7. Testing](OVF_Database/Testing.md) 
 - [3.2.8. General Items](OVF_Database/General_Items.md) 
-- [3.2.9. Open Source Assessment](https://hackmd.io/zTqCdas2TRiuAU2Pq27q7A?both) 
+- [3.2.9. Open Source Assessment](OVF_Database/Open_Source_Assessment.md) 
 
 #### 4 Walkthrough
 > This section describes a step-by-step walkthrough of using the evaluation framework.
