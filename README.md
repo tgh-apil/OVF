@@ -54,7 +54,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 - [2.2.3.11. Hazardous situations and fault conditions for ME Equipment](Methodology/Guide/Hazardous_situations_and_fault_conditions_for_ME_Equipment.md)	
 - [2.2.3.12. Programmable Electrical Medical Systems (PEMs)](Methodology/Guide/Programmable_Electrical_Medical_Systems.md)	
 - [2.2.3.13. Construction of ME Equipment	](Methodology/Guide/Construction_of_ME_Equipment.md)
-- [2.2.3.14. Construction of ME System](https://hackmd.io/WD9DwdAtRViZ1Y2YuBybkA?both)
+- [2.2.3.14. Construction of ME System](Methodology/Guide/Construction_of_ME_Equipment.md)
 - [2.2.3.15. Electromagnetic Compatibility of ME Equipment and ME Systems](https://hackmd.io/H1I5k6RmTteBWuiwmH2Bzg?both)	
 - [2.2.3.16. Additional Requirements to general standards (ISO 80601-2-80)](https://hackmd.io/ndbVwIr5RDa0JJXl5GHt_A?both)
 
