@@ -29,7 +29,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 - [2.2.1. Regulatory Requirements](Methodology/Regulatory_Requirements.md)
 - [2.2.1.1. Health Canada (CA)](Methodology/Health_Canada.md)
 - [2.2.1.2. FDA (USA)](Methodology/FDA.md)
-- [2.2.1.3. MHRA (EU)](https://hackmd.io/ZSYhiu4ERA2TKH74wqfcEQ?both)
+- [2.2.1.3. MHRA (EU)](Methodology/MHRA.md)
 - [2.2.1.4 TGA (AUS)](https://hackmd.io/Eulz8guUSzWZnIQKKRD8Pw?both)
 
 ##### 2.2.2. Required Standards
