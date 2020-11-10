@@ -26,7 +26,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 >This section provides the rationale behind the development of the proposed evaluation framework and describes 3 Levels of proposed evaluation. 
   
 ##### 2.2. Assessemnt of Regulatory Requirements: Sources
-- [2.2.1. Regulatory Requirements](https://hackmd.io/k4uj3lJ9ScOMhPLwtFrSAw?both)
+- [2.2.1. Regulatory Requirements](Methodology/Regulatory_Requirements.md)
 - [2.2.1.1. Health Canada (CA)](https://hackmd.io/3JJ5ooiCQiSkvRiFilQvqg?both)
 - [2.2.1.2. FDA (USA)](https://hackmd.io/5gCwRU5qQG2vPXNCeDt2TA?both)
 - [2.2.1.3. MHRA (EU)](https://hackmd.io/ZSYhiu4ERA2TKH74wqfcEQ?both)
