@@ -61,7 +61,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 > ##### AAMI & MECA Checklist
 - [2.2.3.2. Guide Through AAMI](Methodology/Checklists/Guide_Through_AAMI.md)
 - [2.2.3.3. Guide Through MECA Checklist](Methodology/Checklists/Guide_Through_MECA_Checklist.md)
-- [2.3. Methodology of Synthesis	](https://hackmd.io/0PvHueU7TNeAhbs1OpDhQA?both)
+- [2.3. Methodology of Synthesis	](Methodology/Methodology_of_Synthesis.md)
 - [2.4.  Limitations](https://hackmd.io/jqfZoly0THi_s7jcVMAwTg?both)	
 
 ---
