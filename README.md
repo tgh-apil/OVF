@@ -46,7 +46,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 - [2.2.3.3. General Requirements for testing ME Equipment](Methodology/Guide/General_Requirements_for_testing_ME_Equipment.md)
 - [2.2.3.4. Classification of ME Equipment and ME System](Methodology/Guide/Classification_of_ME_Equipment_and_ME_System.md)
 - [2.2.3.5. ME Equipment Identification, marking and documents](Methodology/Guide/ME_Equipment_Indentification_marking_and_documents.md)
-- [2.2.3.6. Protection against electrical hazards from ME Equipment](https://hackmd.io/8k-Ly63_SvGD148_q7pnDA?both)
+- [2.2.3.6. Protection against electrical hazards from ME Equipment](Methodology/Guide/Protection_against_electrical_hazards_from_ME_Equipment.md)
 - [2.2.3.7. Protection against mechanical hazards of ME Equipment and ME System](https://hackmd.io/BzkwMUwKRu2SZmJxZ3Xe6Q?both)
 - [2.2.3.8. Protection against unwanted and excessive radiation Hazards	](https://hackmd.io/0BnhnZNuT_2a8cbQd6a91w?both)
 - [2.2.3.9. Protection against excessive temperatures and other Hazards	](https://hackmd.io/uLqPLCdoQLuOOJOtJVwumA?both)
