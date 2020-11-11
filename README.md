@@ -8,6 +8,13 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 
+Acknowledgement 
+--- 
+
+ We would like to acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [NSERC Alliance Grants # ALLRP 550058 – 20]. A.M. also supported by donations through the Toronto General and Western Hospital Foundation. 
+
+ We would also like to acknowledge support and guidance from our colleagues at Glia Inc., London Health Sciences Center; University Health Network and Mackenzie Innovation Institute. Finally, we would like to thank Nirmal Pol and Dorotea Gucciardo for their supporting contributions to this project. 
+
 ## Table of Content
 
 #### 1. Introduction	
@@ -94,14 +101,6 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 > Following section includes an example evaluation that showcases how proposed evalaution framework vcan be applied to an open source ventilator design to assess its level of development, readiness, and compliance with the international standards.
 
 > ### [**Evaluation of Reprapable Ventilator Design**](https://docs.google.com/spreadsheets/d/1Sm4jFiruWwtPTFmreUmV_ouC7RH_kJslhLav-8cOgDM/edit?usp=drive_web&ouid=110063970478845364701)
-
-Acknowledgement 
---- 
-
-> We would like to acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [NSERC Alliance Grants # ALLRP 550058 – 20]. A.M. also supported by donations through the Toronto General and Western Hospital Foundation. 
-
-> We would also like to acknowledge support and guidance from our colleagues at Glia Inc., London Health Sciences Center; University Health Network and Mackenzie Innovation Institute. Finally, we would like to thank Nirmal Pol and Dorotea Gucciardo for their supporting contributions to this project. 
-
 
 
 Usage
