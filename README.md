@@ -102,14 +102,6 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 Usage
 ---
 
-
-### File Download 
-
-Publically available version of Handbook can be found here: *PENDING
-
-
-## Appendix and FAQ
-
 :::info
 **Find this document incomplete?** Leave a comment!
 :::
