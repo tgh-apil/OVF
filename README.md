@@ -83,7 +83,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 
 #### 4 Walkthrough
 > This section describes a step-by-step walkthrough of using the evaluation framework.
-> #### [OVF Database Structure](https://hackmd.io/rVuMZwrjRyuTSJY652o3Dw?both)
+> #### [OVF Database Structure](OVF_Walkthrough/Open_Emergency_Use_Ventilator_Evaluation_Framework_Database Structure.md)
 - [4.1. Level 1 Evaluation](/mBOmSmCFQGOpj55bQqmTHA)
 - [4.2. Level 2 Evaluation](/7d1yk-6UR5yIUlGZACV7fQ)
 - [4.3. Level 3 Evaluation](/naIgEDJLQw242PvJ36nKYA)
