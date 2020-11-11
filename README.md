@@ -105,7 +105,7 @@ Usage
 
 ### File Download 
 
-Publically available version of Handbook can be found here: *insert link
+Publically available version of Handbook can be found here: *PENDING
 
 
 ## Appendix and FAQ
