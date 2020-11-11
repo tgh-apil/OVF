@@ -90,7 +90,7 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 
 #### 5 Appendices 
 
-- [Assessment of **RepRepable Automated Open Source Bag Valve Mask-based Ventilator**](Sample Evaluation RepRepable Automated Open Source Bag Valve Mask-based Ventilator.md)
+- [Assessment of **RepRepable Automated Open Source Bag Valve Mask-based Ventilator**](Sample_Evaluation/RepRepable.md)
 > Following section includes an example evaluation that showcases how proposed evalaution framework vcan be applied to an open source ventilator design to assess its level of development, readiness, and compliance with the international standards.
 
 > ### [**Evaluation of Reprapable Ventilator Design**](https://docs.google.com/spreadsheets/d/1Sm4jFiruWwtPTFmreUmV_ouC7RH_kJslhLav-8cOgDM/edit?usp=drive_web&ouid=110063970478845364701)
