@@ -10,6 +10,8 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 
 Acknowledgement 
 --- 
+The following have actively contributed towards the formulation of the corresponding framework:<br/>
+(Listed in alphabetical order of their last names)<br/>
 Dr. Kamran Behdinan | PEng., FAAAS, FASME, FCAE, FCSME, FEIC, FPWC, AFAIAA <br/>
 Professor <br/> 
 NSERC Chair in "Multidisciplinary Engineering Design" <br/>
