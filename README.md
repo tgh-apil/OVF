@@ -10,6 +10,54 @@ High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Reg
 
 Acknowledgement 
 --- 
+Dr. Kamran Behdinan | PEng., FAAAS, FASME, FCAE, FCSME, FEIC, FPWC, AFAIAA
+Professor
+NSERC Chair in "Multidisciplinary Engineering Design"
+Director, U of T - Institute for Multidisciplinary Design and Innovation (IMDI)
+Department of Mechanical & Industrial Engineering
+Faculty of Applied Science & Engineering | University of Toronto
+5 King's College Rd.| Toronto | Ontario, Canada | M5S 3G8
+behdinan@mie.utoronto.ca
+www.mie.utoronto.ca/labs/ARL-MLS/
+http://imdi.mie.utoronto.ca/
+
+Dr. Azad Mashari | BA, MD 
+Assistant Professor | Department of Anesthesia and Pain Medicine | University of Toronto, 
+Staff Anesthesiologist and Director of the Lynn and Arnold Irwin Advanced Perioperative Imaging Lab | Department of Anesthesiology and Pain Management
+Toronto General Hospital | University Health Network
+200 Elizabeth Street | Toronto| Ontario | M5G 2C4
+azad.mashari@mail.utoronto.ca) 
+
+Dr. Jesse May | BA, MD
+Resident Physician (CoD/PGY4) | Department of Anesthesiology and Pain Medicine | University of Toronto
+200 Elizabeth Street | Toronto| Ontario | M5G 2C4
+jesse.may@mail.utoronto.ca
+
+Aviv S. Gladman | MASc, MD, P.Eng, FRCPC
+Chief Information Officer and Chief Medical Information Officer
+Critical Care Physician | Mackenzie Richmond Hill Hospital
+10 Trench Street | Richmond Hill | Ontario | L4C 4Z3
+aviv.gladman@mackenziehealth.ca
+
+Kate Kazlovich | Graduate Student, Clinical Engineering Trainee
+International Centre for Surgical Safety | St. Michael's Hospital
+Institute of Biomaterials and Biomedical Engineering (BME)
+Faculty of Applied Science & Engineering | University of Toronto
+209 Victoria Street | Toronto | Ontario | M5B 1T8
+kate.kazlovich@mail.utoronto.ca
+
+S Ranjan Mishra | Graduate Student, B. Tech
+Advanced Research Laboratory for Multifunctional Lightweight Structures
+Department of Mechanical & Industrial Engineering 
+Faculty of Applied Science & Engineering | University of Toronto
+5 King’s College Rd | Toronto | Ontario | M5S 3G8 
+sr.mishra@mail.utoronto.ca
+
+
+
+
+
+
 
  We would like to acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [NSERC Alliance Grants # ALLRP 550058 – 20]. A.M. also supported by donations through the Toronto General and Western Hospital Foundation. 
 
