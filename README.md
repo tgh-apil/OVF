@@ -21,22 +21,13 @@ behdinan@mie.utoronto.ca <br/>
 www.mie.utoronto.ca/labs/ARL-MLS/
 http://imdi.mie.utoronto.ca/
 
-Dr. Azad Mashari | BA, MD <br/>
-Assistant Professor | Department of Anesthesia and Pain Medicine | University of Toronto, <br/>
-Staff Anesthesiologist and Director of the Lynn and Arnold Irwin Advanced Perioperative Imaging Lab | Department of Anesthesiology and Pain Management | Toronto General Hospital | University Health Network <br/>
-200 Elizabeth Street | Toronto| Ontario | M5G 2C4 <br/>
-azad.mashari@mail.utoronto.ca <br/>
-
-Dr. Jesse May | BA, MD <br/>
-Resident Physician (CoD/PGY4) | Department of Anesthesiology and Pain Medicine | University of Toronto <br/>
-200 Elizabeth Street | Toronto| Ontario | M5G 2C4 <br/>
-jesse.may@mail.utoronto.ca <br/>
 
 Dr. Aviv S. Gladman | MASc, MD, P.Eng, FRCPC <br/>
 Chief Information Officer and Chief Medical Information Officer <br/>
 Critical Care Physician | Mackenzie Richmond Hill Hospital <br/>
 10 Trench Street | Richmond Hill | Ontario | L4C 4Z3 <br/>
 aviv.gladman@mackenziehealth.ca <br/>
+
 
 Kate Kazlovich | Graduate Student, Clinical Engineering Trainee <br/>
 International Centre for Surgical Safety | St. Michael's Hospital <br/>
@@ -45,15 +36,26 @@ Faculty of Applied Science & Engineering | University of Toronto <br/>
 209 Victoria Street | Toronto | Ontario | M5B 1T8 <br/>
 kate.kazlovich@mail.utoronto.ca <br/>
 
+
+Dr. Azad Mashari | BA, MD <br/>
+Assistant Professor | Department of Anesthesia and Pain Medicine | University of Toronto, <br/>
+Staff Anesthesiologist and Director of the Lynn and Arnold Irwin Advanced Perioperative Imaging Lab | Department of Anesthesiology and Pain Management | Toronto General Hospital | University Health Network <br/>
+200 Elizabeth Street | Toronto| Ontario | M5G 2C4 <br/>
+azad.mashari@mail.utoronto.ca <br/>
+
+
+Dr. Jesse May | BA, MD <br/>
+Resident Physician (CoD/PGY4) | Department of Anesthesiology and Pain Medicine | University of Toronto <br/>
+200 Elizabeth Street | Toronto| Ontario | M5G 2C4 <br/>
+jesse.may@mail.utoronto.ca <br/>
+
+
 S Ranjan Mishra | Graduate Student, B. Tech <br/>
 Advanced Research Laboratory for Multifunctional Lightweight Structures <br/>
 Department of Mechanical & Industrial Engineering <br/>
 Faculty of Applied Science & Engineering | University of Toronto <br/>
 5 King’s College Rd | Toronto | Ontario | M5S 3G8 <br/>
 sr.mishra@mail.utoronto.ca <br/>
-
-
-
 
 
 
