@@ -23,8 +23,7 @@ http://imdi.mie.utoronto.ca/
 
 Dr. Azad Mashari | BA, MD <br/>
 Assistant Professor | Department of Anesthesia and Pain Medicine | University of Toronto, <br/>
-Staff Anesthesiologist and Director of the Lynn and Arnold Irwin Advanced Perioperative Imaging Lab | Department of Anesthesiology and Pain Management <br/>
-Toronto General Hospital | University Health Network <br/>
+Staff Anesthesiologist and Director of the Lynn and Arnold Irwin Advanced Perioperative Imaging Lab | Department of Anesthesiology and Pain Management | Toronto General Hospital | University Health Network <br/>
 200 Elizabeth Street | Toronto| Ontario | M5G 2C4 <br/>
 azad.mashari@mail.utoronto.ca <br/>
 
