@@ -156,7 +156,7 @@ Usage
 ---
 
 :::info
-**Find this document incomplete?** Leave a comment!
+**Find this document incomplete?** Leave a comment or contact the authors!
 :::
 
 
