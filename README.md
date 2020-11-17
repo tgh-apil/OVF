@@ -51,11 +51,11 @@ Faculty of Applied Science & Engineering | University of Toronto <br/>
 
 We would like to acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [NSERC Alliance Grants # ALLRP 550058 – 20]. A.M. also supported by donations through the Toronto General and Western Hospital Foundation. 
 
- We would also like to acknowledge support and guidance from our colleagues at Glia Inc., London Health Sciences Center; University Health Network and Mackenzie Innovation Institute. Finally, we would like to thank Nirmal Pol and Dorotea Gucciardo for their supporting contributions to this project. 
+We would also like to acknowledge support and guidance from our colleagues at Glia Inc., London Health Sciences Center; University Health Network and Mackenzie Innovation Institute. Finally, we would like to thank Nirmal Pol and Dorotea Gucciardo for their supporting contributions to this project. 
 
-## Table of Content
+# Table of Contents
 
-#### 1. Introduction	
+## 1. Introduction	
 [1.1. Purpose](Introduction/Purpose.md)
 
 [1.2. Use Case](Introduction/Use_Case.md)	
@@ -65,12 +65,12 @@ We would like to acknowledge the support of the Natural Sciences and Engineering
 
 ---
 
-#### 2. Methodology	
+### 2. Methodology	
 [2.1. Evaluation Framework ](Methodology/Evaluation_Framework.md)
 
->This section provides the rationale behind the development of the proposed evaluation framework and describes 3 Levels of proposed evaluation. 
+This section provides the rationale behind the development of the proposed evaluation framework and describes 3 Levels of proposed evaluation. 
   
-##### 2.2. Assessemnt of Regulatory Requirements: Sources
+#### 2.2. Assessemnt of Regulatory Requirements: Sources
 - [2.2.1. Regulatory Requirements](Methodology/Regulatory_Requirements.md)
 - [2.2.1.1. Health Canada (CA)](Methodology/Health_Canada.md)
 - [2.2.1.2. FDA (USA)](Methodology/FDA.md)
