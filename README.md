@@ -3,18 +3,16 @@
 
 The purpose of this document is to serve as a guide towards the assessment and evaluation of available open source emergency ventilators in accordance with the global standards and requirements as disclosed by various healthcare organizations such as Health Canada (HC), Medicines and Healthcare products Regulatory Agency (MHRA), U.S. Food and Drug Administration (FDA), Australia’s Therapeutic Goods Administration (TGA) and open source regulatory organizations such as Open Source Hardware Association (OSHWA).
 
-
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 # Original Development Team
---- 
 The following have actively contributed towards the formulation of the corresponding framework:<br/>
 (Listed in alphabetical order of their last names)<br/>
 
-Dr. Kamran Behdinan | PEng., FAAAS, FASME, FCAE, FCSME, FEIC, FPWC, AFAIAA <br/>
-Professor <br/> 
-NSERC Chair in "Multidisciplinary Engineering Design" <br/>
+**Dr. Kamran Behdinan** | PEng., FAAAS, FASME, FCAE, FCSME, FEIC, FPWC, AFAIAA
+Professor 
+NSERC Chair in "Multidisciplinary Engineering Design"
 Director, U of T - Institute for Multidisciplinary Design and Innovation (IMDI) <br/>
 Department of Mechanical & Industrial Engineering <br/>
 Faculty of Applied Science & Engineering | University of Toronto <br/>
