@@ -1,6 +1,5 @@
 
-High Acuity Limited Operability (HALO) Emergency Ventilator: Performance and Regulatory Assessment 
-===
+# Open Emergency Ventilator Evaluation Framework
 
 The purpose of this document is to serve as a guide towards the assessment and evaluation of available open source emergency ventilators in accordance with the global standards and requirements as disclosed by various healthcare organizations such as Health Canada (HC), Medicines and Healthcare products Regulatory Agency (MHRA), U.S. Food and Drug Administration (FDA), Australia’s Therapeutic Goods Administration (TGA) and open source regulatory organizations such as Open Source Hardware Association (OSHWA).
 
@@ -8,7 +7,7 @@ The purpose of this document is to serve as a guide towards the assessment and e
 ![downloads](https://img.shields.io/github/downloads/atom/atom/total.svg)
 [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Acknowledgement 
+# Original Development Team
 --- 
 The following have actively contributed towards the formulation of the corresponding framework:<br/>
 (Listed in alphabetical order of their last names)<br/>
@@ -49,7 +48,7 @@ Department of Mechanical & Industrial Engineering <br/>
 Faculty of Applied Science & Engineering | University of Toronto <br/>
 5 King’s College Rd | Toronto | Ontario | M5S 3G8 <br/>
 
-We would like to acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [NSERC Alliance Grants # ALLRP 550058 – 20]. A.M. also supported by donations through the Toronto General and Western Hospital Foundation. 
+We would like to acknowledge the support of the Natural Sciences and Engineering Research Council of Canada (NSERC), [NSERC Alliance Grants # ALLRP 550058 – 20]. A.M. also supported the Department of Anesthes and Pain Management, University Health Network and the [Toronto General and Western Hospital Foundation](https://tgwhf.ca). 
 
 We would also like to acknowledge support and guidance from our colleagues at Glia Inc., London Health Sciences Center; University Health Network and Mackenzie Innovation Institute. Finally, we would like to thank Nirmal Pol and Dorotea Gucciardo for their supporting contributions to this project. 
 
