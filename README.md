@@ -10,12 +10,11 @@ The purpose of this document is to serve as a guide towards the assessment and e
 The following have actively contributed towards the formulation of the corresponding framework:<br/>
 (Listed in alphabetical order of their last names)<br/>
 
-**Dr. Kamran Behdinan** | PEng., FAAAS, FASME, FCAE, FCSME, FEIC, FPWC, AFAIAA
-Professor 
+Dr. Kamran Behdinan | PEng., FAAAS, FASME, FCAE, FCSME, FEIC, FPWC, AFAIAA<br/>
+Professor, Department of Mechanical & Industrial Engineering <br/>
+Faculty of Applied Science & Engineering | University of Toronto <br/> 
 NSERC Chair in "Multidisciplinary Engineering Design"
 Director, U of T - Institute for Multidisciplinary Design and Innovation (IMDI) <br/>
-Department of Mechanical & Industrial Engineering <br/>
-Faculty of Applied Science & Engineering | University of Toronto <br/>
 5 King's College Rd.| Toronto | Ontario, Canada | M5S 3G8<br/>
 www.mie.utoronto.ca/labs/ARL-MLS/
 http://imdi.mie.utoronto.ca/
